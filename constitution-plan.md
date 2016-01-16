@@ -12,12 +12,12 @@ All People, regardless of citizenship status, are guaranteed these rights while 
 - Emergency Services
 - Religion and practice thereof
 - Belief and practice thereof
+- The distribution of information and opinion
 
 Citizens are guaranteed these rights:
 - The Right to financial Assistance by the government
 - The Right to a Socialized Primary, Secondary, and Higher Education
-- The Right to exit the Homeland
+- The Right to exit the Homeland and move freely among public property in the Homeland
 - The Right to have a Request heard by the government (see Legislative Branch)
 - The Right to be a parent or legal guardian of unlimited children
 - The Right to healthcare, regardless of social class
-- 
