@@ -15,7 +15,7 @@ The Legislative Progression
 The People consists of all **legal citizens** of the nation. There is one Second Class Committee for each block of real estate. Each Committee is to have eleven members, elected by the People every six months. When the People wish for a new law, they will draft a Request (similar to a US Bill) and formally submit it to the Committee. The Committee will meet once a week to vote on these Requests. When the meeting has ended, any Requests that have been voted positive will become Law seven days later if the matter at hand is under the jurisdiction of the Second Class Committee. If a resolution is passed yet the Second Class Committee does not have jurisdiction, the bill is passed on to the First Class Committee, where it is automatically put on the Committee's agenda. If 1/3 or more of the People petition against a decision, the People may meet (attendance not required) and vote to repeal the Law. Requests may also be made to repeal a law, which requires a 7/11 majority. Second Class Commitees do not have the ability to tax. More details of the jurisdiction must be layed out in a bill of the National Congress within one year of the ratiication of this Constitution.
 
 **The First Class Committee**
-At the end of a Second Class Committee meeting, they will vote 2 Committee members of their block to become a part of the next First Class Committee meeting. Their term lasts only one meeting. Citizens who do not wish to achieve local scope or citizens without legal residence (homeless, living with parents, etc.) may also submit Requests to a First Class Committee, however, the Committee is not required to discuss the matter. The only way to ensure the attention of a First Class Committee is to have it approved by a Second Class Committe. First Class Committees consist of the elected members of eleven blocks of real estate (11 blocks x 2 elected members = 22 total members). Each bill the First Class Committee debates will be put to a vote. If the result is positive, and the Committee has jurisdiction over the matter, the law is put into action within the eleven blocks it runs, as well as it being sent to the Distric Congress for the possibility of expanding the bill's effect. If the vote is positive, but the Committee does not have jurisdiction, the law is passed to the appropriate Distric Congress for review. If the result is negative, the bill does not go into effect, and the Committee can also vote to repeal the law of the Second Class Committee which passed it on a block-level. First Class Committees do not have the right to tax. The details of the First Class Committees' jurisdiction must be set in a bill passed within one year of the ratification of this Constitution.
+At the end of a Second Class Committee meeting, they will vote 2 Committee members or citizens of their block to become a part of the next First Class Committee meeting. Second Class Committees must meet at least once in every week. Their term lasts only one meeting. Citizens who do not wish to achieve local scope or citizens without legal residence (homeless, living with parents, etc.) may also submit Requests to a First Class Committee, however, the Committee is not required to discuss the matter. The only way to ensure the attention of a First Class Committee is to have it approved by a Second Class Committe. First Class Committees consist of the elected members of eleven blocks of real estate (11 blocks x 2 elected members = 22 total members). Each bill the First Class Committee debates will be put to a vote. If the result is positive, and the Committee has jurisdiction over the matter, the law is put into action within the eleven blocks it runs, as well as it being sent to the Distric Congress for the possibility of expanding the bill's effect. If the vote is positive, but the Committee does not have jurisdiction, the law is passed to the appropriate Distric Congress for review. If the result is negative, the bill does not go into effect, and the Committee can also vote to repeal the law of the Second Class Committee which passed it on a block-level. First Class Committees do not have the right to tax. The details of the First Class Committees' jurisdiction must be set in a bill passed within one year of the ratification of this Constitution.
 
 **District Congress**
 District Congress members serve a two year term, and may serve only two years for every six. Any sort of organized political party is illegal; people are individuals and they should not conform to one of two groups. District Congress members are to be voted for at Second Class Committee elections. There is to be one member per First Class Committee. In the case of a tie, the member who has been named the Congress' President is the tie-breaker. The District Congress has the right to tax. The details of the District Congress' jurisdiction must be set in a bill passed within one month of the ratification of this Constitution.
@@ -25,3 +25,40 @@ Provincial Congress members serve a four year term, and may serve only four year
 
 **National Congress**
 The National Congress is a bicameral system, consisting of two houses: The House of Provinces and The House of The People. When people vote, they vote for one representative from their Province to represent them in the House of Provinces. They also vote for one representative from any Province or Territory/Colony. The House of the People will have 101 members. The House of Provinces will have one member for every Province. If a tie occurs in the House of Provinces or the House of the People, the member who has been named the President of the Congress is the tie-breaker. Requests will be distributed according to a bill which must be passed within one month of the ratification of this Constitution. National Congress members serve a four year term. National Congress members may serve a maximum of five terms, however they may still serve on a District or Provincial Congress, or a Committee once this limit is reached.
+
+##Judicial
+
+
+District Court
+
+**District Court:**
+
+Each individual District has its own District Court which hears all cases regarding Second Class Laws, First Class Laws, District Laws, and Provincial Laws.
+
+**Provincial Court**
+
+Province Supreme Court
+
+**National Court**
+
+A standard National Court
+
+**National Appeals Court**
+
+The Appellate Courts of the National Court system
+
+**The Auxiliary Court**
+
+Supreme Court but all decisions must be approved by The Paramount Court.
+
+**The Paramount Court**
+
+The Supreme Court
+
+
+
+
+
+
+
+
